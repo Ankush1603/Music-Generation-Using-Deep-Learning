@@ -68,7 +68,7 @@ Dense layers or fully connected layers is a fully connected neural network layer
 
 The Activation layer determines what activation function our neural network will use to calculate the output of a node.
 
-## Information about the different layers we will be using it is time to add them to the network model.
+## Information about the different layers we will be using it 
 
 For each LSTM, Dense, and Activation layer the first parameter is how many nodes the layer should have. For the Dropout layer the first parameter is the fraction of input units that should be dropped during training.
 
